@@ -10,5 +10,8 @@
 
 [PicGo](https://picgo.github.io/PicGo-Doc/)
 
-<img src="https://cdn.jsdelivr.net/gh/kangzai228/figure_bed/images/image-20210903120647863.png" alt="image-20210903120647863" style="flaot:left;zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/kangzai228/figure_bed/images/image-20210903120647863.png" alt="image-20210903120647863" style="float:left;zoom:50%;" />
+
+##  Typora设置
+<img src="https://cdn.jsdelivr.net/gh/kangzai228/figure_bed/images/image-20210903123303121.png"  alt="image-20210903123303121"  style="float:left;zoom:90%;" />
 
