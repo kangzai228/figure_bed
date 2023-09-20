@@ -12,7 +12,7 @@
 
 设定存储路径：images/
 
-设定自定义域名：https://cdn.jsdelivr.net/gh/kangzai228/figure_bed
+设定自定义域名：`https://cdn.jsdelivr.net/gh/kangzai228/figure_bed`
 
 ## PicGo文档
 
