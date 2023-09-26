@@ -11,7 +11,7 @@ https://github.com/settings/tokens
 
 <img src="https://cdn.jsdelivr.net/gh/kangzai228/figure_bed/images/github_token1.png"  alt="github产生token beta" style="float:left;zoom:90%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/kangzai228/figure_bed/images/202309211217771.png"/>
+<img src="https://cdn.jsdelivr.net/gh/kangzai228/figure_bed/images/202309261449009.png" alt="202309261449009" style="float:left;zoom:90%;" />
 
 ## PicGo设置
 <img src="https://cdn.jsdelivr.net/gh/kangzai228/figure_bed/images/image-20210903122851310.png" alt="image-20210903122851310" style="float:left;zoom:90%;" />
